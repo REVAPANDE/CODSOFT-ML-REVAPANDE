@@ -3,8 +3,6 @@
 Welcome to the Movie Genre Classification App built using Streamlit!
 This interactive web app allows users to input a movie description or plot and get predicted genres using machine learning.
 
-🔗 Live Demo: movie-genre-app-by-revapande.streamlit.app
-
 🚀 Features
 🔍 Predicts one or more movie genres based on the input description.
 
