@@ -1,4 +1,5 @@
 # 🖋️ Handwritten Text Generator
+##link: https://handwritten-text-generation-byrevapande.streamlit.app/
 
 This is a simple and elegant web app built using **Streamlit** that allows users to generate handwritten-style text using **Google Fonts**. Perfect for fun, creative presentations, or just enjoying a beautiful font style.
 ---
@@ -21,17 +22,4 @@ This is a simple and elegant web app built using **Streamlit** that allows users
 
 ---
 
-## 📦 Installation
 
-To run the app locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/REVAPANDE/handwritten-text-generator.git
-cd handwritten-text-generator
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Streamlit app
-streamlit run app.py
