@@ -1,6 +1,6 @@
 # CODSOFT ML Projects – Reva Pande
 
-This repository contains 5 Machine Learning and AI tasks completed as part of the CODSOFT Internship.
+This repository contains 5 Machine Learning tasks completed as part of the CODSOFT Internship.
 
 Each task is organized in a separate folder with its own code, UI, datasets, or models (as applicable).
 
