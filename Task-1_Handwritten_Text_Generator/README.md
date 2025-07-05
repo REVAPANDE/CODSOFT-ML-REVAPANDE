@@ -1,10 +1,6 @@
 # 🖋️ Handwritten Text Generator
 
 This is a simple and elegant web app built using **Streamlit** that allows users to generate handwritten-style text using **Google Fonts**. Perfect for fun, creative presentations, or just enjoying a beautiful font style.
-
-### 🔗 Live App
-👉 [(https://handwritten-text-generator-by-reva.streamlit.app/)]
-
 ---
 
 ## ✨ Features
@@ -17,7 +13,7 @@ This is a simple and elegant web app built using **Streamlit** that allows users
 ---
 
 ## 🛠️ Tech Stack
-![Screenshot 2025-07-05 122133](https://github.com/user-attachments/assets/f4447d17-8857-4409-aea8-bb61e79e44ca)
+![Screenshot 2025-07-05 130427](https://github.com/user-attachments/assets/6988bcf8-f040-470b-bbf0-f0881ca566bd)
 
 - [Streamlit](https://streamlit.io/) – Frontend and app framework
 - [Google Fonts](https://fonts.google.com/specimen/Homemade+Apple) – Handwriting-style typography
