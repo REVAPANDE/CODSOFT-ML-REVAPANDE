@@ -2,8 +2,6 @@
 
 An intelligent text classification tool that identifies whether an SMS message is **spam** or **legitimate** using machine learning.
 
-🔗 **Live App**: [spam-sms-detection-app-by-revapande.streamlit.app](https://spam-sms-detection-app-by-revapande.streamlit.app/)
-
 ---
 
 ## 🎯 Objective
@@ -39,11 +37,12 @@ The goal of this project is to automatically detect spam messages using NLP tech
 
 ---
 
-## 📂 Sample CSV Format
-![Screenshot 2025-07-04 174523](https://github.com/user-attachments/assets/e63f495b-16ea-4343-a8fe-7f824aa51247)
+![Screenshot 2025-07-05 134148](https://github.com/user-attachments/assets/3d9b00b9-d98b-42a4-9aa1-02a5f53039ec)
+
 
 
 ```csv
+example
 message
 Congratulations! You’ve won a free iPhone. Claim now.
 Hey, are we still on for dinner?
