@@ -21,4 +21,5 @@ Backend/ML: Python, Scikit-learn / NLP libraries
 
 Dataset: Movies Dataset with descriptions and genres
 
-![Screenshot 2025-07-03 103341](https://github.com/user-attachments/assets/d0351725-539d-43fc-8a30-e047df11f6fe)
+
+![Screenshot 2025-07-05 133655](https://github.com/user-attachments/assets/af5abc41-0bd6-43bc-8dd4-62a17b369b80)
