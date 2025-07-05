@@ -2,8 +2,6 @@
 
 This project helps banks and subscription-based services predict whether a customer is likely to leave (churn) using demographic and behavioral data.
 
-🔗 **Live App**: [churn-prediction-app-by-revapande.streamlit.app](https://churn-prediction-app-by-revapande.streamlit.app/)
-
 ---
 
 ## 🎯 Objective
@@ -28,8 +26,10 @@ Predict customer churn based on:
 
 ---
 
-## 📂 Sample![Screenshot 2025-07-04 161936](https://github.com/user-attachments/assets/d7e003d8-2b2f-4373-8aa0-8de8099f0ba2)
+
  Input Format
+ ![Screenshot 2025-07-05 134137](https://github.com/user-attachments/assets/06f9fe22-6f17-459d-a978-12dd010d8184)
+
 
 Your input CSV should look like this:
 
